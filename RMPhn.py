@@ -1,0 +1,1 @@
+dict_hn = { 'Arad': 366, 'Zerind': 374, 'Sibiu': 253, 'Timisoara': 329, 'Oradea': 380, 'Lugoj': 244, 'Mehadia': 241, 'Drobeta': 242, 'Craiova': 160, 'Rimnicu': 193, 'Pitesti': 100, 'Fagaras': 178, 'Giurgiu': 77, 'Urziceni': 80, 'Vaslui': 199, 'Iasi': 226, 'Neamt': 234, 'Hirsova': 151, 'Eforie': 161, 'Bucharest': 0 }
